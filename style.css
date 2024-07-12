@@ -17,7 +17,7 @@ body{
   height: 546px;
   width: 1200px;
   background-color:rgba(0, 0, 0, 0.4);
-  background-image: url(/images/Banner\ Image.png);
+  background-image: url(../images/Banner\ Image.png);
   margin: 50px auto;
   background-position: center;
   background-repeat: no-repeat;
@@ -80,7 +80,7 @@ body{
 
 .mid-night-party{
  border-radius: 14px;
- background: linear-gradient(90.00deg, rgb(7, 2, 17), rgba(7, 2, 17, 0) 100%), url(/images/Vectorrr.png);
+ background: linear-gradient(90.00deg, rgb(7, 2, 17), rgba(7, 2, 17, 0) 100%), url(../images/Vectorrr.png);
   height: 546px;
    width: 1200px;
    margin: 100px auto;
@@ -255,7 +255,7 @@ body{
   height: 602px;
   width: 1200px;
   margin: 0px auto;
-  background: url(./images/Rectangle\ 2.png);
+  background: url(../images/Rectangle\ 2.png);
   background-repeat: no-repeat;
   background-position: bottom center;
   border-radius: 14px;
